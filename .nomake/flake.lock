@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "nickel-mode": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1638857107,
+        "narHash": "sha256-4BuQoa73UDZpHfT71+YrDqArhm7ufuziz2U7RGGnhKg=",
+        "owner": "gtrunsec",
+        "repo": "nickel-mode",
+        "rev": "51b53a7eb1a79b7e3754ad6a75ea5329403ceda8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "gtrunsec",
+        "repo": "nickel-mode",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nickel-mode": "nickel-mode"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
